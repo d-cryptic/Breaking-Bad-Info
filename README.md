@@ -1,1 +1,1 @@
-![Project Demo Screenshot](./BreakingBadInfo)
+![Project Demo Screenshot]('./BreakingBadInfo.gif')
